@@ -27,8 +27,7 @@ def intro_module():
 
     print("\nWelcome to The Drinking Game by Prathamesh Kulkarni!\n"
           "Enter total number of people participating and then enter the names.\n"
-          "The actions are already fed up in the system and I'll be choosing random person"
-          " out of you and \nmake you do a random action.\n"
+          "The actions are already fed up in the system and I'll be choosing random person out of you and make you do a random action.\n"
           "The rules are fairly simple for you drunkards-\n"
           "Everone has to take a sip when any name is called.\n"
           "YOU HAVE TO DO WHAT I TELL YOU TO DO!\n"
