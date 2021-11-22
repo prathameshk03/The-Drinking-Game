@@ -6,7 +6,7 @@ I have made this in an incremantal version-based format by removing bugs and add
 In later versions I've added an option to insert custom actions and also a feature to keep a Game log (Fancy, right?)
 For devices not having python, I've included executable file of the latest version.
 
-I'll be making a java or android application of this in near future. 
+I'll be making a java or android application with front-end of this in near future. 
 
 
 
